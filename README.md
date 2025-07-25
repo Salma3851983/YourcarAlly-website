@@ -9,7 +9,9 @@
 - `index.html` – The main landing page with contact form and details
 
 ## 👤 Created by
-- Salma & Faris (Your Car Ally founders)
+-
+-
+ (Your Car Ally founders)
 
 ## 📧 Contact
 hello@yourcarally.co.uk
