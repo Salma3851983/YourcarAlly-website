@@ -1,0 +1,68 @@
+# Your Car Ally Website
+
+**Your Car Ally** is a professional, client-focused car buying advisory service website. It provides clear, unbiased advice and vehicle inspections to help customers make confident and informed car purchasing and ownership decisions.
+
+---
+
+## Project Overview
+
+This is a single-page responsive website built with HTML and CSS. The site highlights the services offered, pricing, company background, testimonials, and contact information.
+
+---
+
+## Features
+
+- Clean, modern, and mobile-friendly design
+- Navigation menu with smooth scrolling to sections: Home, Services, About, Testimonials, Contact
+- Detailed service descriptions with pricing
+- About section with company and founder information
+- Client testimonials section with placeholder images
+- Contact form for inquiries (form action needs backend setup)
+- Contact details including email, phone, Instagram, and WhatsApp links
+- Sticky header and navigation for easy access
+
+---
+
+## How to Use
+
+1. **Download** or **clone** this repository.
+2. Open the `index.html` file in any modern web browser to view the website locally.
+3. Customize content such as contact info, images, and testimonials as needed.
+4. To publish online, upload all files to a web host or connect the repository with services like Netlify or GitHub Pages.
+
+---
+
+## Deployment
+
+- For **Netlify**: Drag and drop the project folder or connect your GitHub repository.
+- For **GitHub Pages**: Push the project files to a GitHub repository and enable GitHub Pages in repository settings.
+
+---
+
+## Future Improvements
+
+- Connect the contact form to a backend service or Netlify Forms to enable real message sending.
+- Add real client photos and expanded testimonials.
+- Implement multi-page navigation or deeper site structure if needed.
+- Optimize for SEO and accessibility compliance.
+
+---
+
+## Contact
+
+For any questions or business inquiries, contact:
+
+- Email: yourcarally@gmail.com  
+- Phone: 07XXX XXXXXX  
+- Instagram: [@yourcarally](https://instagram.com/yourcarally)  
+- WhatsApp: [Chat Now](https://wa.me/07XXXXXXXXX)
+
+---
+
+## License
+
+This project is for personal/business use. Please contact for commercial licensing.
+
+---
+
+*Created by Your Car Ally Team — Helping you make confident car buying decisions.*
